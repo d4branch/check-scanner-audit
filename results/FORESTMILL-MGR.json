@@ -1,0 +1,16 @@
+{
+    "computer_name":  "FORESTMILL-MGR",
+    "timestamp":  "2026-04-14 16:55:06",
+    "scanner_found":  true,
+    "scanner_brand":  "Digital Check",
+    "scanner_model":  "DCC API 9.0 Firmware",
+    "realpage_installed":  true,
+    "realpage_running":  false,
+    "realpage_version":  "3.0.2.9",
+    "rp_compatible":  "Possible",
+    "working_in_realpage":  "Installed Not Running",
+    "errors":  "",
+    "devices":  [
+
+                ]
+}
