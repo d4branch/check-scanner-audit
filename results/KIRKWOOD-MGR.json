@@ -1,0 +1,23 @@
+{
+    "computer_name":  "KIRKWOOD-MGR",
+    "timestamp":  "2026-04-14 16:55:06",
+    "scanner_found":  true,
+    "scanner_brand":  "Digital Check",
+    "scanner_model":  "TellerScan",
+    "realpage_installed":  true,
+    "realpage_running":  false,
+    "realpage_version":  "1.0.10",
+    "rp_compatible":  "Possible",
+    "working_in_realpage":  "Installed Not Running",
+    "errors":  "",
+    "devices":  [
+                    {
+                        "Status":  "OK",
+                        "Name":  "TellerScan",
+                        "Source":  "PnP",
+                        "Description":  "TellerScan",
+                        "Manufacturer":  "Digital Check Corporation",
+                        "DeviceID":  "USB\\VID_08B1\u0026PID_0015\\5\u00267974DBD\u00260\u00266"
+                    }
+                ]
+}
