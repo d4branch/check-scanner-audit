@@ -1,0 +1,23 @@
+{
+    "computer_name":  "NORTHBAY-APM",
+    "timestamp":  "2026-04-14 15:55:24",
+    "scanner_found":  true,
+    "scanner_brand":  "Digital Check",
+    "scanner_model":  "TellerScan",
+    "realpage_installed":  true,
+    "realpage_running":  false,
+    "realpage_version":  "3.0.2.9",
+    "rp_compatible":  "Possible",
+    "working_in_realpage":  "Installed Not Running",
+    "errors":  "",
+    "devices":  [
+                    {
+                        "Status":  "OK",
+                        "Name":  "TellerScan",
+                        "Source":  "PnP",
+                        "Description":  "TellerScan",
+                        "Manufacturer":  "Digital Check Corporation",
+                        "DeviceID":  "USB\\VID_08B1\u0026PID_0019\\5\u00261DA39EC7\u00260\u00263"
+                    }
+                ]
+}
