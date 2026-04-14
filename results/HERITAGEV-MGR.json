@@ -1,0 +1,16 @@
+{
+    "computer_name":  "HERITAGEV-MGR",
+    "timestamp":  "2026-04-14 16:55:06",
+    "scanner_found":  false,
+    "scanner_brand":  "None",
+    "scanner_model":  "None",
+    "realpage_installed":  false,
+    "realpage_running":  false,
+    "realpage_version":  "N/A",
+    "rp_compatible":  "N/A",
+    "working_in_realpage":  "N/A",
+    "errors":  "",
+    "devices":  [
+
+                ]
+}
