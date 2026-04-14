@@ -1,0 +1,16 @@
+{
+    "computer_name":  "SUNRISEVIEW-LEA",
+    "timestamp":  "2026-04-14 17:23:56",
+    "scanner_found":  false,
+    "scanner_brand":  "None",
+    "scanner_model":  "None",
+    "realpage_installed":  true,
+    "realpage_running":  false,
+    "realpage_version":  "1.0.10",
+    "rp_compatible":  "N/A",
+    "working_in_realpage":  "N/A",
+    "errors":  "",
+    "devices":  [
+
+                ]
+}
