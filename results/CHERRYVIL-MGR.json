@@ -1,0 +1,13 @@
+{
+    "computer_name":  "CHERRYVIL-MGR",
+    "timestamp":  "2026-04-15 12:31:25",
+    "scanner_found":  true,
+    "scanner_brand":  "Digital Check",
+    "scanner_model":  "TellerScan Combined Driver version 12.15_NOFW",
+    "bank_software":  "Truist",
+    "scanner_origin":  "Bank scanner - Truist",
+    "errors":  "",
+    "devices":  [
+
+                ]
+}
