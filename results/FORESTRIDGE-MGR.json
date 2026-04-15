@@ -1,14 +1,11 @@
 {
     "computer_name":  "FORESTRIDGE-MGR",
-    "timestamp":  "2026-04-14 15:55:06",
+    "timestamp":  "2026-04-15 12:32:16",
     "scanner_found":  true,
     "scanner_brand":  "RDM",
     "scanner_model":  "RDM SIMPLICITY USB DRIVER 1.0.12",
-    "realpage_installed":  true,
-    "realpage_running":  false,
-    "realpage_version":  "3.0.2.9",
-    "rp_compatible":  "Possible",
-    "working_in_realpage":  "Installed Not Running",
+    "bank_software":  "None",
+    "scanner_origin":  "Scanner present - no bank software found",
     "errors":  "",
     "devices":  [
 
