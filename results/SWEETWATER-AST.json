@@ -1,0 +1,13 @@
+{
+    "computer_name":  "SWEETWATER-AST",
+    "timestamp":  "2026-04-15 13:25:43",
+    "scanner_found":  true,
+    "scanner_brand":  "Digital Check",
+    "scanner_model":  "TellerScan Combined Driver version 16.04",
+    "bank_software":  "Jack Henry (RDC)",
+    "scanner_origin":  "Bank scanner - Jack Henry (RDC)",
+    "errors":  "",
+    "devices":  [
+
+                ]
+}
