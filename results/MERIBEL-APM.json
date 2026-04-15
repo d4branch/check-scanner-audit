@@ -1,14 +1,11 @@
 {
     "computer_name":  "MERIBEL-APM",
-    "timestamp":  "2026-04-14 16:55:25",
+    "timestamp":  "2026-04-15 13:25:21",
     "scanner_found":  false,
     "scanner_brand":  "None",
     "scanner_model":  "None",
-    "realpage_installed":  false,
-    "realpage_running":  false,
-    "realpage_version":  "N/A",
-    "rp_compatible":  "N/A",
-    "working_in_realpage":  "N/A",
+    "bank_software":  "None",
+    "scanner_origin":  "No scanner",
     "errors":  "",
     "devices":  [
 
