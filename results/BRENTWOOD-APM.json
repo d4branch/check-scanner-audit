@@ -1,0 +1,20 @@
+{
+    "computer_name":  "BRENTWOOD-APM",
+    "timestamp":  "2026-04-15 12:25:22",
+    "scanner_found":  true,
+    "scanner_brand":  "RDM",
+    "scanner_model":  "RDM Simplicity RDM Simplicity RDM USB\\VID_0E1A\u0026PID_0005\\2512099104001",
+    "bank_software":  "None",
+    "scanner_origin":  "Scanner present - no bank software found",
+    "errors":  "",
+    "devices":  [
+                    {
+                        "Status":  "OK",
+                        "Name":  "RDM Simplicity",
+                        "Source":  "PnP",
+                        "Description":  "RDM Simplicity",
+                        "Manufacturer":  "RDM",
+                        "DeviceID":  "USB\\VID_0E1A\u0026PID_0005\\2512099104001"
+                    }
+                ]
+}
