@@ -1,14 +1,11 @@
 {
     "computer_name":  "HAVEN-MGR",
-    "timestamp":  "2026-04-14 16:55:07",
+    "timestamp":  "2026-04-15 13:31:25",
     "scanner_found":  true,
     "scanner_brand":  "Digital Check",
     "scanner_model":  "TellerScan",
-    "realpage_installed":  true,
-    "realpage_running":  false,
-    "realpage_version":  "3.0.2.9",
-    "rp_compatible":  "Possible",
-    "working_in_realpage":  "Installed Not Running",
+    "bank_software":  "None",
+    "scanner_origin":  "Scanner present - no bank software found",
     "errors":  "",
     "devices":  [
                     {
