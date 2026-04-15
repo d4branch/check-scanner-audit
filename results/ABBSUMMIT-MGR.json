@@ -1,14 +1,11 @@
 {
     "computer_name":  "ABBSUMMIT-MGR",
-    "timestamp":  "2026-04-15 08:42:26",
+    "timestamp":  "2026-04-15 12:25:13",
     "scanner_found":  true,
     "scanner_brand":  "Digital Check",
     "scanner_model":  "TellerScan",
-    "realpage_installed":  true,
-    "realpage_running":  false,
-    "realpage_version":  "1.0.10",
-    "rp_compatible":  "Possible",
-    "working_in_realpage":  "Installed Not Running",
+    "bank_software":  "Generic RDC, Jack Henry (RDC)",
+    "scanner_origin":  "Bank scanner - Generic RDC, Jack Henry (RDC)",
     "errors":  "",
     "devices":  [
                     {
