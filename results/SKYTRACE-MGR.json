@@ -1,0 +1,11 @@
+{
+    "computer_name":  "SKYTRACE-MGR",
+    "timestamp":  "2026-04-16 11:38:56",
+    "scanner_found":  true,
+    "scanner_brand":  "Digital Check",
+    "scanner_model":  "TellerScan",
+    "realpage_driver_installed":  true,
+    "realpage_driver_version":  "3.0.2.9",
+    "overall_status":  "GREEN - Ready for RealPage deposits",
+    "errors":  ""
+}
