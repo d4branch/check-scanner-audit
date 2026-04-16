@@ -1,0 +1,11 @@
+{
+    "computer_name":  "VALLEYRIDGE-MGR",
+    "timestamp":  "2026-04-16 11:39:12",
+    "scanner_found":  true,
+    "scanner_brand":  "Digital Check",
+    "scanner_model":  "TS Device TS Device Digital Check Corporation USB\\VID_08B1\u0026PID_0018\\5\u00263073E85F\u00260\u002610",
+    "realpage_driver_installed":  true,
+    "realpage_driver_version":  "3.0.2.9",
+    "overall_status":  "GREEN - Ready for RealPage deposits",
+    "errors":  ""
+}
