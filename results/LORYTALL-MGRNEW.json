@@ -1,0 +1,11 @@
+{
+    "computer_name":  "LORYTALL-MGRNEW",
+    "timestamp":  "2026-04-16 11:26:42",
+    "scanner_found":  false,
+    "scanner_brand":  "None",
+    "scanner_model":  "None",
+    "realpage_driver_installed":  false,
+    "realpage_driver_version":  "N/A",
+    "overall_status":  "RED - Needs scanner and RealPage driver",
+    "errors":  ""
+}
