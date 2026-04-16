@@ -1,0 +1,20 @@
+{
+    "computer_name":  "CHEROKEEMED-MGR",
+    "timestamp":  "2026-04-15 22:04:44",
+    "scanner_found":  true,
+    "scanner_brand":  "Panini",
+    "scanner_model":  "Panini USB Driver Panini USB Driver Panini ROOT\\PANINI\\0000",
+    "bank_software":  "None",
+    "scanner_origin":  "Bank scanner (Panini) - INCOMPATIBLE with RealPage",
+    "errors":  "",
+    "devices":  [
+                    {
+                        "Status":  "OK",
+                        "Name":  "Panini USB Driver",
+                        "Source":  "PnP",
+                        "Description":  "Panini USB Driver",
+                        "Manufacturer":  "Panini",
+                        "DeviceID":  "ROOT\\PANINI\\0000"
+                    }
+                ]
+}
