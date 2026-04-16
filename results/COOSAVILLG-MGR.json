@@ -1,0 +1,11 @@
+{
+    "computer_name":  "COOSAVILLG-MGR",
+    "timestamp":  "2026-04-16 10:40:52",
+    "scanner_found":  true,
+    "scanner_brand":  "Digital Check",
+    "scanner_model":  "TS Device TS Device Digital Check Corporation USB\\VID_08B1\u0026PID_0018\\5\u0026654EDE9\u00260\u00264",
+    "realpage_driver_installed":  false,
+    "realpage_driver_version":  "N/A",
+    "overall_status":  "YELLOW - Scanner present, needs RealPage driver",
+    "errors":  ""
+}
