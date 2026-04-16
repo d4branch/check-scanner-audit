@@ -1,0 +1,11 @@
+{
+    "computer_name":  "STONYII-MGR",
+    "timestamp":  "2026-04-16 11:27:14",
+    "scanner_found":  true,
+    "scanner_brand":  "Panini",
+    "scanner_model":  "Vision",
+    "realpage_driver_installed":  false,
+    "realpage_driver_version":  "N/A",
+    "overall_status":  "YELLOW - Scanner present, needs RealPage driver",
+    "errors":  ""
+}
