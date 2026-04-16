@@ -1,0 +1,11 @@
+{
+    "computer_name":  "CPSHAWNEE-MGR",
+    "timestamp":  "2026-04-16 10:39:05",
+    "scanner_found":  false,
+    "scanner_brand":  "None",
+    "scanner_model":  "None",
+    "realpage_driver_installed":  true,
+    "realpage_driver_version":  "3.0.2.8",
+    "overall_status":  "ORANGE - RealPage driver installed, needs scanner hardware",
+    "errors":  ""
+}
